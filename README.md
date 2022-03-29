@@ -1,8 +1,10 @@
 <h1 align="center">🐍 Snake Game</h1><br>
 
+(‼️DISCLAIMER‼️: This whole repository is a work in progress but I wanted the link to this repository on my personal repository to work so here it is :) )
+
 ## 🌿 About the Class
 #### AP Computer Science Principles
-I took this course during my senior year at Ravenwood High School (2020-2021), and I created this project as my final project that I submitted for the AP exam at the end of the year. Throughout the year we learned the basics of Javascript and how to use it to create different kinds of simple apps.
+I took this course during my senior year at Ravenwood High School (2020-2021), and I created this project as my final project that I submitted for the AP exam at the end of the year. Throughout the year we learned the basics of Javascript and how to use it to create different kinds of simple apps by following a course on [code.org](https://studio.code.org/courses).
 <br><br><br>
 
 ## 🍏 About the Project
@@ -13,4 +15,3 @@ As for the code I included in this repository, it is the original code I wrote f
 <br><br><br>
 
 ## 🪲 How it Works
-
