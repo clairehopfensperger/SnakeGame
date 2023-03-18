@@ -1,6 +1,7 @@
 <h1 align="center">🐍 Snake Game</h1><br>
 
-(‼️DISCLAIMER‼️: This whole repository is a work in progress but I wanted the link to this repository on my personal repository to work so here it is :) )
+### [Snake Game](https://studio.code.org/projects/applab/26g4jgobUQ4j5Tb_zCiFR6VGXGLPfGt0g-RquyL1LyE)
+<br>
 
 ## 🌿 About the Class
 #### AP Computer Science Principles
@@ -13,5 +14,3 @@ The assignment for this project was to create a game using Javascript that fit a
 
 As for the code I included in this repository, it is the original code I wrote for the project. You can look at it and critique it in all its glory, but just so you know I kept it as it is to use as a comparison of where I started coding to where I am now.
 <br><br><br>
-
-## 🪲 How it Works
